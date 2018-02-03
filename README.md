@@ -11,4 +11,4 @@ zk和dubbo-admin因为太大，放在网盘链接：https://pan.baidu.com/s/1htM
 3.启动dubbo工程  
 
 进入admin后台可以看到服务已经被管理，现在可以试试调用RPC了。
-部署说明可参考[：http://blog.csdn.net/mantantan/article/details/79186436]
+[部署说明可参考](http://blog.csdn.net/mantantan/article/details/79186436)
